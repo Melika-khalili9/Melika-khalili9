@@ -1,8 +1,7 @@
 ## Hi,My name is Melika!👋
 I build modern, responsive, and user-friendly web applications with a focus on clean and maintainable frontend code.
 
- ### 🛠️ Tech Stack:
- <h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <p align="center">
 
