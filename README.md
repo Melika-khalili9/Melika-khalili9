@@ -1,18 +1,21 @@
 ## Hi,My name is Melika!👋
 
 <h2>👩🏻‍💻 About Me</h2>
-- 🌱 Started my journey in Frontend Development with a strong curiosity about how things work on the web.
-- ⚛️ Fell in love with React and gradually moved into building more interactive and reusable user interfaces.
-- 🚀 Currently working with React, Next.js, and TypeScript on real-world projects.
-- 🧩 I enjoy turning designs and ideas into clean, responsive, and user-friendly interfaces.
-- 🧠 I like understanding the "why" behind the code, not just making things work.
-- 📚 Always learning, building, and challenging myself to become a better Frontend Developer.
-- 🌍 My goal is to grow as a developer and work with great teams on meaningful products.
 
+<div>
+🌱 Started my journey in Frontend Development with a strong curiosity about how things work on the web.
+⚛️ Fell in love with React and gradually moved into building more interactive and reusable user interfaces.
+🚀 Currently working with React, Next.js, and TypeScript on real-world projects.
+🧩 I enjoy turning designs and ideas into clean, responsive, and user-friendly interfaces.
+🧠 I like understanding the "why" behind the code, not just making things work.
+📚 Always learning, building, and challenging myself to become a better Frontend Developer.
+🌍 My goal is to grow as a developer and work with great teams on meaningful products.
+
+</div>
 
 <h2>🛠️ Tech Stack</h2>
 
-<p align="center">
+<div align="center">
 
 <img src="https://camo.githubusercontent.com/5f9c88ee1da6ce5f954b5aa4902bdd20438598c332b6c71e405e4c2acc731176/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width='55' />
 
@@ -26,4 +29,4 @@
 
 <img src='https://www.svgrepo.com/show/373625/gitlab.svg' width='55'/>
 
-</p>
+</div>
