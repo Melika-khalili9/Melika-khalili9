@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 About Me</h2>
 
-<p>
+<div>
 🌱 Started my journey in Frontend Development with a strong curiosity about how things work on the web.<br>
 ⚛️ Fell in love with React and gradually moved into building more interactive and reusable user interfaces.<br>
 🚀 Currently working with React, Next.js, and TypeScript on real-world projects.<br>
@@ -10,7 +10,7 @@
 🧠 I like understanding the "why" behind the code, not just making things work.<br>
 📚 Always learning, building, and challenging myself to become a better Frontend Developer.<br>
 🌍 My goal is to grow as a developer and work with great teams on meaningful products.
-</p>
+</div>
 
 <h2>🛠️ Tech Stack</h2>
 
