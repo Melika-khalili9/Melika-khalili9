@@ -1,4 +1,4 @@
-## Hi,I'm Melika!👋
+## Hi,I'm Melika! <img src='https://iconscout.com/lottie-animation/hello-animation_12957340'/>
 
 <h2>👩🏻‍💻 About Me</h2>
 <div>
