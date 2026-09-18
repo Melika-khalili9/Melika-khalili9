@@ -29,3 +29,7 @@
 <img src='https://www.svgrepo.com/show/373625/gitlab.svg' width='55'/>
 
 </div>
+
+<h2>🌐 Let's Talk</h2>
+<p>I'm always happy to connect with developers, collaborate on interesting projects, or simply have a conversation about technology and frontend development.
+</p>
