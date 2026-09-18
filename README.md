@@ -1,4 +1,4 @@
-## Hi,My name is Melika!👋
+## Hi,Im!👋
 
 <h2>👩🏻‍💻 About Me</h2>
 
