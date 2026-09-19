@@ -30,5 +30,9 @@
 <p>I'm always happy to connect with developers, collaborate on interesting projects, or simply have a conversation about technology and frontend development✨
 </p>
 
-<h2>🚀 Currently Learning & Building</h2>
+<h2>
+ <img
+    src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif"
+    width="30"
+  /> Currently Learning & Building</h2>
 <p>Currently improving my frontend skills by building projects with React, Next.js, and TypeScript</p>
