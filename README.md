@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
- <h1 style='inline'>Hi,I'm Melika</h1>
- <img src="./hello/hello.gif" width="50" />
+  <h1 style="margin: 0;">Hi, I'm Melika</h1>
+  <img src="./hello/hello.gif" width="50" style="margin-left: 10px;" />
 </div>
 
 <h2>👩🏻‍💻 About Me</h2>
