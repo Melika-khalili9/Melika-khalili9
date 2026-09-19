@@ -28,5 +28,5 @@
 <p>I'm always happy to connect with developers, collaborate on interesting projects, or simply have a conversation about technology and frontend development✨
 </p>
 
-<h2><img src='https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk3OTkxNTUsIm5iZiI6MTc4OTc5ODg1NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE5VDA2MjA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhMjQ0YTZhMGUzYTg5ZTEyNjk3MmY5MTM3ZjZlYjg4YTY0ZDM0Y2EzZDJmYzY1ZDVhODFjMDMxZDI0OGZmZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.lzUw0QDvU86hA13tafpHI-pQdrWM2CTLEcj0n3jzIMs' width='45'/> Currently Learning & Building</h2>
+<h2>🚀 Currently Learning & Building</h2>
 <p>Currently improving my frontend skills by building projects with React, Next.js, and TypeScript</p>
