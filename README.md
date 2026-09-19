@@ -1,11 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <h1 style="margin: 0;">Hi, I'm Melika</h1>
-  <img
-    src="./hello/hello.gif"
-    width="50"
-    style="margin-left: 8px; display: block;"
-  />
-</div>
+<h1>Hi, I'm Melika<img src="./hello/hello.gif" width="40"/></h1>
 
 <h2>👩🏻‍💻 About Me</h2>
 <div>
