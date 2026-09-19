@@ -1,4 +1,7 @@
-<h1 style="display: flex; align-items: center;">Hi,I'm Melika <img src="./hello/hello.gif" width="50" /></h1>
+<div style="display: flex; align-items: center;">
+ <h1>Hi,I'm Melika</h1>
+ <img src="./hello/hello.gif" width="50" />
+</div>
 
 <h2>👩🏻‍💻 About Me</h2>
 <div>
