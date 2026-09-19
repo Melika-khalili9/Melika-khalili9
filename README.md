@@ -1,4 +1,4 @@
-## Hi,I'm Melika!<img src="./hello/hello.gif" width="60" />
+<div>Hi,I'm Melika <img src="./hello/hello.gif" width="60" /></div>
 
 <h2>👩🏻‍💻 About Me</h2>
 <div>
