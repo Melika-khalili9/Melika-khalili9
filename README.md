@@ -1,7 +1,7 @@
 <h1>Hi, I'm Melika <img src='https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif' width='30'/></h1>
 
 <h2>
- <img src='https://user-images.githubusercontent.com/74038190/212259388-e2cc9871-7cb3-4500-a401-3d5b71e4f103.jpg'/>
+ <img src='https://user-images.githubusercontent.com/74038190/212259388-e2cc9871-7cb3-4500-a401-3d5b71e4f103.jpg' width='30'/>
  About Me</h2>
 <div>
 🌱 Started my journey in Frontend Development with a strong curiosity about how things work on the web.<br>
