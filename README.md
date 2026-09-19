@@ -21,7 +21,7 @@
 <img src='https://www.svgrepo.com/show/373625/gitlab.svg' width='55'/>
 </div>
 
-<h2>🌐 Let's Talk <img src='https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif'/></h2>
+<h2>🌐 Let's Talk <img src='https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif' size='40'/></h2>
 <p>I'm always happy to connect with developers, collaborate on interesting projects, or simply have a conversation about technology and frontend development✨
 </p>
 
